@@ -4,6 +4,8 @@
 ## Для общей комнаты администрации перейдите на:
 [https://srv-meet.surgutokb.ru/administracia](https://srv-meet.surgutokb.ru/administracia)
 
+***
+
 В открывшемся окне Нажмите:
 
 Я понимаю риск, но хочу продолжить
