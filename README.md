@@ -1,7 +1,7 @@
-# Для входа на сервер видеоконференций перейдите на:
+## Для входа на сервер видеоконференций перейдите на:
 [https://srv-meet.surgutokb.ru/](https://srv-meet.surgutokb.ru/)
 
-# Для общей комнаты администрации перейдите на:
+## Для общей комнаты администрации перейдите на:
 [https://srv-meet.surgutokb.ru/administracia](https://srv-meet.surgutokb.ru/administracia)
 
 В открывшемся окне Нажмите:
