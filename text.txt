@@ -1,2 +1,3 @@
 http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/
 https://chapchin.github.io/srvmeet/
+https://zen.yandex.ru/media/nuancesprog/kak-sozdat-besplatnyi-sait-na-github-pages-5e8b575f41638c101f61d55a
